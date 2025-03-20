@@ -57,12 +57,6 @@ Dalam menghadapi era digitalisasi, bisnis perlu terus berinovasi agar tetap rele
 
 
 
-**Demonstrasi Code dengan Test Case**
-![Supermarket Project](project_supermarket/supermarket_project.png)
-
-
-
-
 **Conclusion**
 
 Sistem ini memberikan solusi  dalam mengelola transaksi belanja. Dengan fitur-fitur yang tersedia, pengguna dapat dengan mudah menambah, memperbarui, atau menghapus item dalam keranjang serta mendapatkan total harga dengan diskon otomatis.
