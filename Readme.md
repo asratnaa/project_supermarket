@@ -59,7 +59,7 @@ Dalam menghadapi era digitalisasi, bisnis perlu terus berinovasi agar tetap rele
 
 **Demonstrasi Code dengan Test Case**
 
-project_supermarket/supermarketproject.png
+![Supermarket Project](project_supermarket/supermarket_project.png)
 
 
 
