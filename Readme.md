@@ -58,7 +58,7 @@ Dalam menghadapi era digitalisasi, bisnis perlu terus berinovasi agar tetap rele
 
 
 **Demonstrasi Code dengan Test Case**
-![Deskripsi Gambar](D:\skill100\project_pacmann\supermarket project.png)
+
 
 
 
