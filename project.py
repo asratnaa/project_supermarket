@@ -67,7 +67,6 @@ class Transaction:
         for remove in self.items:
             if remove["item_name"] == remove_item:
                 self.items.remove(remove)
-                print(self.items)
                 return f'{remove_item} removed from the shopping cart.'
         return "Item not found in the cart."   
 
